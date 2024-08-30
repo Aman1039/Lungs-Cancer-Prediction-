@@ -1,7 +1,7 @@
 
 <h1 align="center">Lung Cancer Prediction Project</h1>
 <p align="center">
-The project aims to predict lung cancer outcomes using machine learning algorithms. By leveraging pertinent features extracted from two distinct datasets—**Dataset-1** and **Dataset-2**—the project evaluates the efficacy of various feature selection algorithms and hyperparameter tuning strategies across a diverse set of machine learning models..
+The project aims to predict lung cancer outcomes using machine learning algorithms. By leveraging pertinent features extracted from two distinct datasets— Dataset-1 and Dataset-2t. The project evaluates the efficacy of various feature selection algorithms and hyperparameter tuning strategies across a diverse set of machine learning models.
 </p>
 
 ## Datasets
